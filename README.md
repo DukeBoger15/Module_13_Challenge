@@ -1,4 +1,4 @@
-<H1>Module_13_Challenge</H1>
+<H1>Module 13 Challenge - Venture Funding with Deep Learning</H1>
 <li>This repository contains the code for my FinTech Bootcamp Module 13 Challenge.</li>
 <H2>Background</H2>
 <li>Working as a risk management associate at Alphabet Soup, a venture capital firm, Alphabet Soup's business team receives many funding applications from startups everyday. This team has asked us to help create a model that predicts whether applicants will be successful if funded by Alphabet Soup.</li>
